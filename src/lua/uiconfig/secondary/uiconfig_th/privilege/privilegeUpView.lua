@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -240,7 +240,7 @@ local t =
 									height = "60",
 									ignoreSize = "True",
 									name = "Button_up",
-									normal = "ui/activity/znq_yly/privilege/008.png",
+									normal = "ui/activity/znq_yly_global/privilege/008.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -319,7 +319,7 @@ local t =
 									height = "60",
 									ignoreSize = "True",
 									name = "Button_check",
-									normal = "ui/activity/znq_yly/info/006.png",
+									normal = "ui/activity/znq_yly_global/info/006.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -565,7 +565,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/005.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/005.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -639,7 +639,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/009.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/009.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -804,10 +804,10 @@ local t =
 		{
 			"ui/fuben/cost_diban.png",
 			"icon/system/003.png",
-			"ui/activity/znq_yly/privilege/008.png",
-			"ui/activity/znq_yly/info/006.png",
-			"ui/activity/znq_yly/privilege/005.png",
-			"ui/activity/znq_yly/privilege/009.png",
+			"ui/activity/znq_yly_global/privilege/008.png",
+			"ui/activity/znq_yly_global/info/006.png",
+			"ui/activity/znq_yly_global/privilege/005.png",
+			"ui/activity/znq_yly_global/privilege/009.png",
 		},
 		armatures = 
 		{

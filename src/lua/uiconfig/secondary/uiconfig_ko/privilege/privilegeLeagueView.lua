@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -102,7 +102,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/info/009.png",
+							texturePath = "ui/activity/znq_yly_global/info/009.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -133,7 +133,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/010.png",
+									texturePath = "ui/activity/znq_yly_global/info/010.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -157,7 +157,7 @@ local t =
 									height = "32",
 									ignoreSize = "True",
 									name = "Button_close",
-									normal = "ui/activity/znq_yly/info/012.png",
+									normal = "ui/activity/znq_yly_global/info/012.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -236,7 +236,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											texturePath = "ui/activity/znq_yly/info/014.png",
+											texturePath = "ui/activity/znq_yly_global/info/014.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -349,7 +349,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/privilege/006.png",
+											texturePath = "ui/activity/znq_yly_global/privilege/006.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -466,7 +466,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/privilege/003.png",
+											texturePath = "ui/activity/znq_yly_global/privilege/003.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -497,7 +497,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "1",
-													texture = "ui/activity/znq_yly/privilege/004.png",
+													texture = "ui/activity/znq_yly_global/privilege/004.png",
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
@@ -524,7 +524,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "1",
-													texture = "ui/activity/znq_yly/privilege/004.png",
+													texture = "ui/activity/znq_yly_global/privilege/004.png",
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
@@ -641,7 +641,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/privilege/006.png",
+											texturePath = "ui/activity/znq_yly_global/privilege/006.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -708,7 +708,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/privilege/006.png",
+											texturePath = "ui/activity/znq_yly_global/privilege/006.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -1265,7 +1265,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/privilege/bg.png",
+											texturePath = "ui/activity/znq_yly_global/privilege/bg.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -1514,7 +1514,7 @@ local t =
 									height = "192",
 									ignoreSize = "True",
 									name = "Button_type1",
-									normal = "ui/activity/znq_yly/privilege/002.png",
+									normal = "ui/activity/znq_yly_global/privilege/002.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1547,7 +1547,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/privilege/001.png",
+											texturePath = "ui/activity/znq_yly_global/privilege/001.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -1618,7 +1618,7 @@ local t =
 									height = "192",
 									ignoreSize = "True",
 									name = "Button_type2",
-									normal = "ui/activity/znq_yly/privilege/002.png",
+									normal = "ui/activity/znq_yly_global/privilege/002.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1651,7 +1651,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/privilege/001.png",
+											texturePath = "ui/activity/znq_yly_global/privilege/001.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -1807,7 +1807,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/005.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/005.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -1881,7 +1881,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/007.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/007.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -2263,24 +2263,24 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/info/009.png",
-			"ui/activity/znq_yly/info/010.png",
-			"ui/activity/znq_yly/info/012.png",
-			"ui/activity/znq_yly/info/014.png",
-			"ui/activity/znq_yly/privilege/006.png",
-			"ui/activity/znq_yly/privilege/003.png",
-			"ui/activity/znq_yly/privilege/004.png",
+			"ui/activity/znq_yly_global/info/009.png",
+			"ui/activity/znq_yly_global/info/010.png",
+			"ui/activity/znq_yly_global/info/012.png",
+			"ui/activity/znq_yly_global/info/014.png",
+			"ui/activity/znq_yly_global/privilege/006.png",
+			"ui/activity/znq_yly_global/privilege/003.png",
+			"ui/activity/znq_yly_global/privilege/004.png",
 			"ui/common/mini_pop/13.png",
 			"ui/common/mini_pop/027.png",
 			"ui/common/mini_pop/028.png",
 			"ui/common/mini_pop/029.png",
 			"ui/summon/002.png",
 			"ui/activity/fashionStore/1/009.png",
-			"ui/activity/znq_yly/privilege/bg.png",
-			"ui/activity/znq_yly/privilege/002.png",
-			"ui/activity/znq_yly/privilege/001.png",
-			"ui/activity/znq_yly/privilege/005.png",
-			"ui/activity/znq_yly/privilege/007.png",
+			"ui/activity/znq_yly_global/privilege/bg.png",
+			"ui/activity/znq_yly_global/privilege/002.png",
+			"ui/activity/znq_yly_global/privilege/001.png",
+			"ui/activity/znq_yly_global/privilege/005.png",
+			"ui/activity/znq_yly_global/privilege/007.png",
 			"ui/common/select.png",
 		},
 		armatures = 

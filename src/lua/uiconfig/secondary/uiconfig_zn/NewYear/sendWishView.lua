@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -70,8 +70,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
-						PositionY = 320,
+						PositionX = 510,
+						PositionY = 334,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -229,7 +229,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_btn",
 									nTextAlign = "1",
@@ -463,7 +463,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -480,7 +480,7 @@ local t =
 								PositionX = -224,
 								PositionY = 161,
 							},
-							width = "113",
+							width = "114",
 							ZOrder = "1",
 							components = 
 							{

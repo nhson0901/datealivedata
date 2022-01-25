@@ -61,7 +61,7 @@ local t =
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/activity/znq_yly/Image_mark.png",
+					texturePath = "ui/activity/znq_yly_global/Image_mark.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -988,7 +988,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/Image_mark.png",
+			"ui/activity/znq_yly_global/Image_mark.png",
 			"ui/newyear/build/bg.png",
 			"ui/newyear/wishtree/011.png",
 			"ui/newyear/build/dress1.png",

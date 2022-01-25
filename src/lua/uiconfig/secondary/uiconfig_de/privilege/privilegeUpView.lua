@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -222,7 +222,7 @@ local t =
 									{
 										PositionX = 63,
 									},
-									width = "92",
+									width = "94",
 									ZOrder = "1",
 								},
 								{
@@ -237,10 +237,10 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									ignoreSize = "True",
 									name = "Button_up",
-									normal = "ui/activity/znq_yly/privilege/008.png",
+									normal = "ui/activity/znq_yly_global/privilege/008.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -252,7 +252,7 @@ local t =
 										PositionY = -2,
 									},
 									UItype = "Button",
-									width = "137",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -283,7 +283,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_btn",
 											nTextAlign = "1",
@@ -299,7 +299,7 @@ local t =
 											{
 												PositionY = -1,
 											},
-											width = "55",
+											width = "119",
 											ZOrder = "1",
 										},
 									},
@@ -316,10 +316,10 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									ignoreSize = "True",
 									name = "Button_check",
-									normal = "ui/activity/znq_yly/info/006.png",
+									normal = "ui/activity/znq_yly_global/info/006.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -334,7 +334,7 @@ local t =
 										relativeToName = "Panel_root",
 									},
 									UItype = "Button",
-									width = "137",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -365,7 +365,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_privilegeUpView_1",
 											nTextAlign = "1",
@@ -381,7 +381,7 @@ local t =
 											{
 												
 											},
-											width = "107",
+											width = "106",
 											ZOrder = "1",
 										},
 									},
@@ -414,7 +414,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "30",
+							height = "28",
 							ignoreSize = "True",
 							name = "Label_max",
 							nTextAlign = "1",
@@ -434,7 +434,7 @@ local t =
 								TopPosition = 409,
 								relativeToName = "Panel_root",
 							},
-							width = "172",
+							width = "171",
 							ZOrder = "1",
 						},
 						{
@@ -565,7 +565,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/005.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/005.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -632,20 +632,20 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "69",
+									height = "2",
 									ignoreSize = "True",
 									name = "Image_cell_bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/009.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/009.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "894",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -784,7 +784,7 @@ local t =
 									{
 										PositionX = -429,
 									},
-									width = "95",
+									width = "97",
 									ZOrder = "1",
 								},
 							},
@@ -804,10 +804,10 @@ local t =
 		{
 			"ui/fuben/cost_diban.png",
 			"icon/system/003.png",
-			"ui/activity/znq_yly/privilege/008.png",
-			"ui/activity/znq_yly/info/006.png",
-			"ui/activity/znq_yly/privilege/005.png",
-			"ui/activity/znq_yly/privilege/009.png",
+			"ui/activity/znq_yly_global/privilege/008.png",
+			"ui/activity/znq_yly_global/info/006.png",
+			"ui/activity/znq_yly_global/privilege/005.png",
+			"ui/activity/znq_yly_global/privilege/009.png",
 		},
 		armatures = 
 		{

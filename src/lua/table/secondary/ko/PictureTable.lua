@@ -6661,8 +6661,8 @@ return {
     },
     [1333] = {
         id = 1333,
-        res = "ui/activity/znq_yly/help/002.png",
-        res_en = "ui/activity/znq_yly/help/002_ko.png",
+        res = "ui/activity/znq_yly_global/help/002.png",
+        res_en = "ui/activity/znq_yly_global/help/002_ko.png",
     },
     [1334] = {
         id = 1334,
@@ -6766,8 +6766,8 @@ return {
     },
     [1354] = {
         id = 1354,
-        res = "ui/activity/znq_yly/mainUi/019.png",
-        res_en = "ui/activity/znq_yly/mainUi/019_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/019.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/019_ko.png",
     },
     [1355] = {
         id = 1355,
@@ -6776,8 +6776,8 @@ return {
     },
     [1356] = {
         id = 1356,
-        res = "ui/activity/znq_yly/help/003.png",
-        res_en = "ui/activity/znq_yly/help/003_ko.png",
+        res = "ui/activity/znq_yly_global/help/003.png",
+        res_en = "ui/activity/znq_yly_global/help/003_ko.png",
     },
     [1357] = {
         id = 1357,
@@ -6881,8 +6881,8 @@ return {
     },
     [1377] = {
         id = 1377,
-        res = "ui/activity/znq_yly/mainUi/highFive.png",
-        res_en = "ui/activity/znq_yly/mainUi/highFive_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/highFive.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/highFive_ko.png",
     },
     [1378] = {
         id = 1378,
@@ -6916,8 +6916,8 @@ return {
     },
     [1384] = {
         id = 1384,
-        res = "ui/activity/znq_yly/help/004.png",
-        res_en = "ui/activity/znq_yly/help/004_ko.png",
+        res = "ui/activity/znq_yly_global/help/004.png",
+        res_en = "ui/activity/znq_yly_global/help/004_ko.png",
     },
     [1385] = {
         id = 1385,
@@ -6971,8 +6971,8 @@ return {
     },
     [1395] = {
         id = 1395,
-        res = "ui/activity/znq_yly/mainUi/leave.png",
-        res_en = "ui/activity/znq_yly/mainUi/leave_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/leave.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/leave_ko.png",
     },
     [1396] = {
         id = 1396,
@@ -7081,8 +7081,8 @@ return {
     },
     [1417] = {
         id = 1417,
-        res = "ui/activity/znq_yly/mainUi/016.png",
-        res_en = "ui/activity/znq_yly/mainUi/016_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/016.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/016_ko.png",
     },
     [1418] = {
         id = 1418,
@@ -7136,8 +7136,8 @@ return {
     },
     [1428] = {
         id = 1428,
-        res = "ui/activity/znq_yly/mainUi/015.png",
-        res_en = "ui/activity/znq_yly/mainUi/015_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/015.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/015_ko.png",
     },
     [1429] = {
         id = 1429,
@@ -7216,8 +7216,8 @@ return {
     },
     [1444] = {
         id = 1444,
-        res = "ui/activity/znq_yly/help/001.png",
-        res_en = "ui/activity/znq_yly/help/001_ko.png",
+        res = "ui/activity/znq_yly_global/help/001.png",
+        res_en = "ui/activity/znq_yly_global/help/001_ko.png",
     },
     [1445] = {
         id = 1445,
@@ -7246,8 +7246,8 @@ return {
     },
     [1450] = {
         id = 1450,
-        res = "ui/activity/znq_yly/mainUi/investigate.png",
-        res_en = "ui/activity/znq_yly/mainUi/investigate_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/investigate.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/investigate_ko.png",
     },
     [1451] = {
         id = 1451,
@@ -7266,8 +7266,8 @@ return {
     },
     [1454] = {
         id = 1454,
-        res = "ui/activity/znq_yly/mainUi/020.png",
-        res_en = "ui/activity/znq_yly/mainUi/020_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/020.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/020_ko.png",
     },
     [1455] = {
         id = 1455,
@@ -7321,8 +7321,8 @@ return {
     },
     [1465] = {
         id = 1465,
-        res = "ui/activity/znq_yly/mainUi/017.png",
-        res_en = "ui/activity/znq_yly/mainUi/017_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/017.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/017_ko.png",
     },
     [1466] = {
         id = 1466,
@@ -7376,8 +7376,8 @@ return {
     },
     [1476] = {
         id = 1476,
-        res = "ui/activity/znq_yly/mainUi/021.png",
-        res_en = "ui/activity/znq_yly/mainUi/021_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/021.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/021_ko.png",
     },
     [1477] = {
         id = 1477,
@@ -7411,8 +7411,8 @@ return {
     },
     [1483] = {
         id = 1483,
-        res = "ui/activity/znq_yly/privilege/bg.png",
-        res_en = "ui/activity/znq_yly/privilege/bg_ko.png",
+        res = "ui/activity/znq_yly_global/privilege/bg.png",
+        res_en = "ui/activity/znq_yly_global/privilege/bg_ko.png",
     },
     [1484] = {
         id = 1484,
@@ -7521,8 +7521,8 @@ return {
     },
     [1505] = {
         id = 1505,
-        res = "ui/activity/znq_yly/mainUi/018.png",
-        res_en = "ui/activity/znq_yly/mainUi/018_ko.png",
+        res = "ui/activity/znq_yly_global/mainUi/018.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/018_ko.png",
     },
     [1506] = {
         id = 1506,
@@ -8096,13 +8096,13 @@ return {
     },
     [1620] = {
         id = 1620,
-        res = "ui/activity/znq_yly/help/005.png",
-        res_en = "ui/activity/znq_yly/help/005_en.png",
+        res = "ui/activity/znq_yly_global/help/005.png",
+        res_en = "ui/activity/znq_yly_global/help/005_en.png",
     },
     [1621] = {
         id = 1621,
-        res = "ui/activity/znq_yly/help/006.png",
-        res_en = "ui/activity/znq_yly/help/006_en.png",
+        res = "ui/activity/znq_yly_global/help/006.png",
+        res_en = "ui/activity/znq_yly_global/help/006_en.png",
     },
     [1622] = {
         id = 1622,
@@ -8211,23 +8211,23 @@ return {
     },
     [1643] = {
         id = 1643,
-        res = "ui/activity/znq_yly/mainUi/029.png",
-        res_en = "ui/activity/znq_yly/mainUi/029_en.png",
+        res = "ui/activity/znq_yly_global/mainUi/029.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/029_en.png",
     },
     [1644] = {
         id = 1644,
-        res = "ui/activity/znq_yly/mainUi/putDown.png",
-        res_en = "ui/activity/znq_yly/mainUi/putDown_en.png",
+        res = "ui/activity/znq_yly_global/mainUi/putDown.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/putDown_en.png",
     },
     [1645] = {
         id = 1645,
-        res = "ui/activity/znq_yly/mainUi/repair.png",
-        res_en = "ui/activity/znq_yly/mainUi/repair_en.png",
+        res = "ui/activity/znq_yly_global/mainUi/repair.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/repair_en.png",
     },
     [1646] = {
         id = 1646,
-        res = "ui/activity/znq_yly/mainUi/take.png",
-        res_en = "ui/activity/znq_yly/mainUi/take_en.png",
+        res = "ui/activity/znq_yly_global/mainUi/take.png",
+        res_en = "ui/activity/znq_yly_global/mainUi/take_en.png",
     },
     [1647] = {
         id = 1647,

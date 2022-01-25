@@ -103,7 +103,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/Image_mark.png",
+							texturePath = "ui/activity/znq_yly_global/Image_mark.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -237,7 +237,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "37",
+							height = "34",
 							ignoreSize = "True",
 							name = "Label_bagName",
 							nTextAlign = "1",
@@ -254,7 +254,7 @@ local t =
 								PositionX = 295,
 								PositionY = 534,
 							},
-							width = "124",
+							width = "122",
 							ZOrder = "1",
 						},
 						{
@@ -394,7 +394,7 @@ local t =
 										PositionX = 438,
 										PositionY = 21,
 									},
-									width = "27",
+									width = "26",
 									ZOrder = "1",
 								},
 								{
@@ -501,7 +501,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label",
 											nTextAlign = "1",
@@ -517,7 +517,7 @@ local t =
 											{
 												PositionY = -2,
 											},
-											width = "55",
+											width = "54",
 											ZOrder = "1",
 										},
 									},
@@ -548,7 +548,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_finish",
 									nTextAlign = "1",
@@ -565,7 +565,7 @@ local t =
 										PositionX = 830,
 										PositionY = 52,
 									},
-									width = "77",
+									width = "74",
 									ZOrder = "1",
 								},
 								{
@@ -786,7 +786,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label",
 											nTextAlign = "1",
@@ -1498,7 +1498,7 @@ local t =
 								PositionX = 381,
 								PositionY = 533,
 							},
-							width = "29",
+							width = "28",
 							ZOrder = "1",
 						},
 					},
@@ -1514,7 +1514,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/Image_mark.png",
+			"ui/activity/znq_yly_global/Image_mark.png",
 			"ui/activity/2021_spring/bg.png",
 			"ui/activity/2021_spring/fireWorks/close.png",
 			"ui/activity/2021_spring/003.png",

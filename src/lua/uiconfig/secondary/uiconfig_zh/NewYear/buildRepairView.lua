@@ -102,7 +102,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/Image_mark.png",
+							texturePath = "ui/activity/znq_yly_global/Image_mark.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -401,7 +401,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "1",
-													texture = "ui/activity/znq_yly/privilege/004.png",
+													texture = "ui/activity/znq_yly_global/privilege/004.png",
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
@@ -2930,13 +2930,13 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/Image_mark.png",
+			"ui/activity/znq_yly_global/Image_mark.png",
 			"ui/newyear/build/bg.png",
 			"ui/newyear/build/004.png",
 			"ui/newyear/build/001.png",
 			"ui/newyear/build/012.png",
 			"ui/newyear/build/bar1.png",
-			"ui/activity/znq_yly/privilege/004.png",
+			"ui/activity/znq_yly_global/privilege/004.png",
 			"ui/newyear/build/bar2.png",
 			"ui/newyear/build/008.png",
 			"ui/newyear/build/007.png",

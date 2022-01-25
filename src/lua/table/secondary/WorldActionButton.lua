@@ -19,7 +19,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/018.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/018.png",
         effectPath = "",
     },
     [2] = {
@@ -38,7 +38,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/leave.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/leave.png",
         effectPath = "",
     },
     [3] = {
@@ -57,7 +57,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/leave.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/leave.png",
         effectPath = "",
     },
     [10] = {
@@ -84,7 +84,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [11] = {
@@ -111,7 +111,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [12] = {
@@ -138,7 +138,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [13] = {
@@ -166,7 +166,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [14] = {
@@ -193,7 +193,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [15] = {
@@ -220,7 +220,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [16] = {
@@ -247,7 +247,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [20] = {
@@ -270,7 +270,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/021.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/021.png",
         effectPath = "",
     },
     [21] = {
@@ -293,7 +293,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/019.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/019.png",
         effectPath = "",
     },
     [22] = {
@@ -316,7 +316,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [23] = {
@@ -339,7 +339,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/019.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/019.png",
         effectPath = "",
     },
     [24] = {
@@ -362,7 +362,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/019.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/019.png",
         effectPath = "",
     },
     [25] = {
@@ -385,7 +385,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [26] = {
@@ -408,7 +408,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/repair.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/repair.png",
         effectPath = "",
     },
     [27] = {
@@ -439,7 +439,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [28] = {
@@ -462,7 +462,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [29] = {
@@ -485,7 +485,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [30] = {
@@ -509,7 +509,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [31] = {
@@ -530,7 +530,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/leave.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/leave.png",
         effectPath = "",
     },
     [32] = {
@@ -562,7 +562,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [2511] = {
@@ -586,7 +586,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2512] = {
@@ -610,7 +610,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2513] = {
@@ -634,7 +634,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2514] = {
@@ -658,7 +658,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2515] = {
@@ -682,7 +682,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2516] = {
@@ -706,7 +706,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2517] = {
@@ -730,7 +730,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2518] = {
@@ -754,7 +754,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2519] = {
@@ -778,7 +778,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2520] = {
@@ -802,7 +802,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2521] = {
@@ -826,7 +826,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2522] = {
@@ -850,7 +850,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2523] = {
@@ -874,7 +874,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2524] = {
@@ -898,7 +898,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2525] = {
@@ -922,7 +922,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2526] = {
@@ -946,7 +946,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2527] = {
@@ -970,7 +970,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2528] = {
@@ -994,7 +994,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2529] = {
@@ -1018,7 +1018,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2530] = {
@@ -1042,7 +1042,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2531] = {
@@ -1066,7 +1066,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2532] = {
@@ -1090,7 +1090,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2533] = {
@@ -1114,7 +1114,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2534] = {
@@ -1138,7 +1138,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2535] = {
@@ -1162,7 +1162,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2536] = {
@@ -1186,7 +1186,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2537] = {
@@ -1210,7 +1210,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2538] = {
@@ -1234,7 +1234,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2539] = {
@@ -1258,7 +1258,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [80] = {
@@ -1302,7 +1302,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [2541] = {
@@ -1326,7 +1326,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2542] = {
@@ -1350,7 +1350,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2543] = {
@@ -1374,7 +1374,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2544] = {
@@ -1398,7 +1398,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2545] = {
@@ -1422,7 +1422,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2546] = {
@@ -1446,7 +1446,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2547] = {
@@ -1470,7 +1470,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2548] = {
@@ -1494,7 +1494,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2549] = {
@@ -1518,7 +1518,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12723] = {
@@ -1542,7 +1542,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2551] = {
@@ -1562,7 +1562,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12731] = {
@@ -1586,7 +1586,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12735] = {
@@ -1610,7 +1610,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12739] = {
@@ -1634,7 +1634,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12743] = {
@@ -1658,7 +1658,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12747] = {
@@ -1682,7 +1682,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12803] = {
@@ -1746,7 +1746,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [12815] = {
@@ -1959,7 +1959,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12907] = {
@@ -1983,7 +1983,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12911] = {
@@ -2007,7 +2007,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12915] = {
@@ -2031,7 +2031,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [33] = {
@@ -2062,7 +2062,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [12923] = {
@@ -2086,7 +2086,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2601] = {
@@ -2108,7 +2108,7 @@ return {
             [1] = 2701,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2602] = {
@@ -2130,7 +2130,7 @@ return {
             [1] = 2702,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2603] = {
@@ -2152,7 +2152,7 @@ return {
             [1] = 2703,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2604] = {
@@ -2174,7 +2174,7 @@ return {
             [1] = 2704,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2605] = {
@@ -2196,7 +2196,7 @@ return {
             [1] = 2705,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2606] = {
@@ -2218,7 +2218,7 @@ return {
             [1] = 2706,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2607] = {
@@ -2240,7 +2240,7 @@ return {
             [1] = 2707,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2608] = {
@@ -2262,7 +2262,7 @@ return {
             [1] = 2708,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2609] = {
@@ -2284,7 +2284,7 @@ return {
             [1] = 2709,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2610] = {
@@ -2306,7 +2306,7 @@ return {
             [1] = 2710,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2611] = {
@@ -2328,7 +2328,7 @@ return {
             [1] = 2711,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2612] = {
@@ -2350,7 +2350,7 @@ return {
             [1] = 2712,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2613] = {
@@ -2372,7 +2372,7 @@ return {
             [1] = 2713,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2614] = {
@@ -2394,7 +2394,7 @@ return {
             [1] = 2714,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2615] = {
@@ -2416,7 +2416,7 @@ return {
             [1] = 2715,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2616] = {
@@ -2438,7 +2438,7 @@ return {
             [1] = 2716,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2617] = {
@@ -2460,7 +2460,7 @@ return {
             [1] = 2717,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2618] = {
@@ -2482,7 +2482,7 @@ return {
             [1] = 2718,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2619] = {
@@ -2504,7 +2504,7 @@ return {
             [1] = 2719,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2620] = {
@@ -2526,7 +2526,7 @@ return {
             [1] = 2720,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2621] = {
@@ -2548,7 +2548,7 @@ return {
             [1] = 2721,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2622] = {
@@ -2570,7 +2570,7 @@ return {
             [1] = 2722,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12504] = {
@@ -2594,7 +2594,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12508] = {
@@ -2618,7 +2618,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12512] = {
@@ -2642,7 +2642,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12516] = {
@@ -2666,7 +2666,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12520] = {
@@ -2690,7 +2690,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12524] = {
@@ -2714,7 +2714,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12528] = {
@@ -2738,7 +2738,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12532] = {
@@ -2762,7 +2762,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12536] = {
@@ -2786,7 +2786,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2632] = {
@@ -2808,7 +2808,7 @@ return {
             [1] = 2732,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12544] = {
@@ -2832,7 +2832,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2634] = {
@@ -2854,7 +2854,7 @@ return {
             [1] = 2734,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2635] = {
@@ -2876,7 +2876,7 @@ return {
             [1] = 2735,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2636] = {
@@ -2898,7 +2898,7 @@ return {
             [1] = 2736,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2637] = {
@@ -2920,7 +2920,7 @@ return {
             [1] = 2737,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2638] = {
@@ -2942,7 +2942,7 @@ return {
             [1] = 2738,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2639] = {
@@ -2964,7 +2964,7 @@ return {
             [1] = 2739,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2640] = {
@@ -2986,7 +2986,7 @@ return {
             [1] = 2740,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2641] = {
@@ -3008,7 +3008,7 @@ return {
             [1] = 2741,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2642] = {
@@ -3030,7 +3030,7 @@ return {
             [1] = 2742,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2643] = {
@@ -3052,7 +3052,7 @@ return {
             [1] = 2743,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2644] = {
@@ -3074,7 +3074,7 @@ return {
             [1] = 2744,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2645] = {
@@ -3096,7 +3096,7 @@ return {
             [1] = 2745,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2646] = {
@@ -3118,7 +3118,7 @@ return {
             [1] = 2746,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2647] = {
@@ -3140,7 +3140,7 @@ return {
             [1] = 2747,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2648] = {
@@ -3162,7 +3162,7 @@ return {
             [1] = 2748,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2649] = {
@@ -3184,7 +3184,7 @@ return {
             [1] = 2749,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [34] = {
@@ -3215,7 +3215,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [50] = {
@@ -3235,7 +3235,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/highFive.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/highFive.png",
         effectPath = "",
     },
     [84] = {
@@ -3255,7 +3255,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [12704] = {
@@ -3279,7 +3279,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12708] = {
@@ -3303,7 +3303,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12712] = {
@@ -3327,7 +3327,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12716] = {
@@ -3351,7 +3351,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12720] = {
@@ -3375,7 +3375,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12724] = {
@@ -3399,7 +3399,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12728] = {
@@ -3423,7 +3423,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12732] = {
@@ -3447,7 +3447,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12736] = {
@@ -3471,7 +3471,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12740] = {
@@ -3495,7 +3495,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12744] = {
@@ -3519,7 +3519,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12748] = {
@@ -3543,7 +3543,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12804] = {
@@ -3604,7 +3604,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [101] = {
@@ -3653,7 +3653,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2703] = {
@@ -3674,7 +3674,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2704] = {
@@ -3695,7 +3695,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2705] = {
@@ -3716,7 +3716,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2706] = {
@@ -3737,7 +3737,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2707] = {
@@ -3758,7 +3758,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2708] = {
@@ -3779,7 +3779,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2709] = {
@@ -3800,7 +3800,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2710] = {
@@ -3821,7 +3821,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2711] = {
@@ -3842,7 +3842,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2712] = {
@@ -3863,7 +3863,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2713] = {
@@ -3884,7 +3884,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2714] = {
@@ -3905,7 +3905,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2715] = {
@@ -3926,7 +3926,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2716] = {
@@ -3947,7 +3947,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2717] = {
@@ -3968,7 +3968,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2718] = {
@@ -3989,7 +3989,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2719] = {
@@ -4010,7 +4010,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2720] = {
@@ -4031,7 +4031,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2721] = {
@@ -4052,7 +4052,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2722] = {
@@ -4073,7 +4073,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2723] = {
@@ -4094,7 +4094,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2724] = {
@@ -4115,7 +4115,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2725] = {
@@ -4136,7 +4136,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2726] = {
@@ -4157,7 +4157,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [35] = {
@@ -4188,7 +4188,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [2728] = {
@@ -4209,7 +4209,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2729] = {
@@ -4230,7 +4230,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2730] = {
@@ -4251,7 +4251,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2731] = {
@@ -4272,7 +4272,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2732] = {
@@ -4293,7 +4293,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2733] = {
@@ -4314,7 +4314,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2734] = {
@@ -4335,7 +4335,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2735] = {
@@ -4356,7 +4356,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2736] = {
@@ -4377,7 +4377,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2737] = {
@@ -4398,7 +4398,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2738] = {
@@ -4419,7 +4419,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2739] = {
@@ -4440,7 +4440,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2740] = {
@@ -4461,7 +4461,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2741] = {
@@ -4482,7 +4482,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2742] = {
@@ -4503,7 +4503,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2743] = {
@@ -4524,7 +4524,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2744] = {
@@ -4545,7 +4545,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2745] = {
@@ -4566,7 +4566,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2746] = {
@@ -4587,7 +4587,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2747] = {
@@ -4608,7 +4608,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2748] = {
@@ -4629,7 +4629,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2749] = {
@@ -4650,7 +4650,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12501] = {
@@ -4674,7 +4674,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12505] = {
@@ -4698,7 +4698,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12509] = {
@@ -4722,7 +4722,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12513] = {
@@ -4746,7 +4746,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12517] = {
@@ -4770,7 +4770,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12521] = {
@@ -4794,7 +4794,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12525] = {
@@ -4818,7 +4818,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12529] = {
@@ -4842,7 +4842,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12533] = {
@@ -4866,7 +4866,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12537] = {
@@ -4890,7 +4890,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12541] = {
@@ -4914,7 +4914,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12545] = {
@@ -4938,7 +4938,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12549] = {
@@ -4962,7 +4962,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12553] = {
@@ -4991,7 +4991,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [87] = {
@@ -5011,7 +5011,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [103] = {
@@ -5068,7 +5068,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12569] = {
@@ -5097,7 +5097,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12573] = {
@@ -5126,7 +5126,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12577] = {
@@ -5155,7 +5155,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12581] = {
@@ -5184,7 +5184,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12585] = {
@@ -5213,7 +5213,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12589] = {
@@ -5242,7 +5242,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12593] = {
@@ -5271,7 +5271,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12597] = {
@@ -5300,7 +5300,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [60] = {
@@ -5320,7 +5320,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/highFive.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/highFive.png",
         effectPath = "",
     },
     [88] = {
@@ -5340,7 +5340,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [104] = {
@@ -5397,7 +5397,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12948] = {
@@ -5421,7 +5421,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12947] = {
@@ -5445,7 +5445,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12705] = {
@@ -5469,7 +5469,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12709] = {
@@ -5493,7 +5493,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12713] = {
@@ -5517,7 +5517,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12717] = {
@@ -5541,7 +5541,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12721] = {
@@ -5565,7 +5565,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12725] = {
@@ -5589,7 +5589,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12729] = {
@@ -5613,7 +5613,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12733] = {
@@ -5637,7 +5637,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12737] = {
@@ -5661,7 +5661,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12741] = {
@@ -5685,7 +5685,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12745] = {
@@ -5709,7 +5709,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2301] = {
@@ -5736,7 +5736,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [2302] = {
@@ -5763,7 +5763,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [2303] = {
@@ -5790,7 +5790,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [2304] = {
@@ -5817,7 +5817,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [2305] = {
@@ -5840,7 +5840,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [2306] = {
@@ -5867,7 +5867,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [2307] = {
@@ -5894,7 +5894,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [2308] = {
@@ -5921,7 +5921,7 @@ return {
         overlayButton = {
         },
         effectAction = "animation",
-        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/017.png",
         effectPath = "effect/world/UI_button2/UI_anniu2",
     },
     [12556] = {
@@ -5950,7 +5950,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12945] = {
@@ -5974,7 +5974,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12944] = {
@@ -5998,7 +5998,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12943] = {
@@ -6022,7 +6022,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12557] = {
@@ -6051,7 +6051,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12801] = {
@@ -6355,7 +6355,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12940] = {
@@ -6379,7 +6379,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12939] = {
@@ -6403,7 +6403,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12560] = {
@@ -6432,7 +6432,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12927] = {
@@ -6456,7 +6456,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12936] = {
@@ -6480,7 +6480,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12935] = {
@@ -6504,7 +6504,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12561] = {
@@ -6533,7 +6533,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12928] = {
@@ -6557,7 +6557,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12932] = {
@@ -6581,7 +6581,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12931] = {
@@ -6605,7 +6605,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12564] = {
@@ -6634,7 +6634,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12901] = {
@@ -6658,7 +6658,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12905] = {
@@ -6682,7 +6682,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12909] = {
@@ -6706,7 +6706,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12913] = {
@@ -6730,7 +6730,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12917] = {
@@ -6754,7 +6754,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12921] = {
@@ -6778,7 +6778,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12925] = {
@@ -6802,7 +6802,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12929] = {
@@ -6826,7 +6826,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12933] = {
@@ -6850,7 +6850,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12937] = {
@@ -6874,7 +6874,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [90] = {
@@ -6939,7 +6939,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12924] = {
@@ -6963,7 +6963,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12568] = {
@@ -6992,7 +6992,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12920] = {
@@ -7016,7 +7016,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12919] = {
@@ -7040,7 +7040,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [102] = {
@@ -7092,7 +7092,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [86] = {
@@ -7112,7 +7112,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [12912] = {
@@ -7136,7 +7136,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [82] = {
@@ -7159,7 +7159,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [12908] = {
@@ -7183,7 +7183,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12906] = {
@@ -7207,7 +7207,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12904] = {
@@ -7231,7 +7231,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12563] = {
@@ -7260,7 +7260,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12848] = {
@@ -7310,7 +7310,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12502] = {
@@ -7334,7 +7334,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12506] = {
@@ -7358,7 +7358,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12510] = {
@@ -7382,7 +7382,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12514] = {
@@ -7406,7 +7406,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12518] = {
@@ -7430,7 +7430,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12522] = {
@@ -7454,7 +7454,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12526] = {
@@ -7478,7 +7478,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12530] = {
@@ -7502,7 +7502,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12534] = {
@@ -7526,7 +7526,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12538] = {
@@ -7550,7 +7550,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12542] = {
@@ -7574,7 +7574,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12546] = {
@@ -7598,7 +7598,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12844] = {
@@ -7648,7 +7648,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12558] = {
@@ -7677,7 +7677,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12562] = {
@@ -7706,7 +7706,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12566] = {
@@ -7735,7 +7735,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12570] = {
@@ -7764,7 +7764,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12574] = {
@@ -7793,7 +7793,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12578] = {
@@ -7822,7 +7822,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12582] = {
@@ -7851,7 +7851,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12586] = {
@@ -7880,7 +7880,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12590] = {
@@ -7909,7 +7909,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12594] = {
@@ -7938,7 +7938,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12598] = {
@@ -7967,7 +7967,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12842] = {
@@ -8038,7 +8038,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12836] = {
@@ -8108,7 +8108,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12832] = {
@@ -8158,7 +8158,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12828] = {
@@ -8208,7 +8208,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12824] = {
@@ -8258,7 +8258,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [302] = {
@@ -8331,7 +8331,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12817] = {
@@ -8402,7 +8402,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12812] = {
@@ -8517,7 +8517,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12595] = {
@@ -8546,7 +8546,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12749] = {
@@ -8570,7 +8570,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12702] = {
@@ -8594,7 +8594,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12706] = {
@@ -8618,7 +8618,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12710] = {
@@ -8642,7 +8642,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [304] = {
@@ -8689,7 +8689,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12722] = {
@@ -8713,7 +8713,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12726] = {
@@ -8737,7 +8737,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12730] = {
@@ -8761,7 +8761,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12734] = {
@@ -8785,7 +8785,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12738] = {
@@ -8809,7 +8809,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12742] = {
@@ -8833,7 +8833,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [305] = {
@@ -8880,7 +8880,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12746] = {
@@ -8904,7 +8904,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12727] = {
@@ -8928,7 +8928,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12719] = {
@@ -8952,7 +8952,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12715] = {
@@ -8976,7 +8976,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12714] = {
@@ -9000,7 +9000,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12711] = {
@@ -9024,7 +9024,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [306] = {
@@ -9071,7 +9071,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12703] = {
@@ -9095,7 +9095,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12600] = {
@@ -9124,7 +9124,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12599] = {
@@ -9153,7 +9153,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12596] = {
@@ -9182,7 +9182,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12802] = {
@@ -9467,7 +9467,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12572] = {
@@ -9496,7 +9496,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12571] = {
@@ -9525,7 +9525,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12527] = {
@@ -9549,7 +9549,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12531] = {
@@ -9573,7 +9573,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12535] = {
@@ -9597,7 +9597,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [309] = {
@@ -9644,7 +9644,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12543] = {
@@ -9668,7 +9668,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12547] = {
@@ -9692,7 +9692,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12555] = {
@@ -9721,7 +9721,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12559] = {
@@ -9750,7 +9750,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [70] = {
@@ -9773,7 +9773,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/investigate.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/investigate.png",
         effectPath = "",
     },
     [12902] = {
@@ -9797,7 +9797,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [310] = {
@@ -9844,7 +9844,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12914] = {
@@ -9868,7 +9868,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12918] = {
@@ -9892,7 +9892,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12922] = {
@@ -9916,7 +9916,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12926] = {
@@ -9940,7 +9940,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12930] = {
@@ -9964,7 +9964,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12934] = {
@@ -9988,7 +9988,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12938] = {
@@ -10012,7 +10012,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12942] = {
@@ -10036,7 +10036,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12946] = {
@@ -10060,7 +10060,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2727] = {
@@ -10081,7 +10081,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [83] = {
@@ -10101,7 +10101,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/020.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/020.png",
         effectPath = "",
     },
     [12552] = {
@@ -10130,7 +10130,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2623] = {
@@ -10152,7 +10152,7 @@ return {
             [1] = 2723,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2624] = {
@@ -10174,7 +10174,7 @@ return {
             [1] = 2724,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2625] = {
@@ -10196,7 +10196,7 @@ return {
             [1] = 2725,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2626] = {
@@ -10218,7 +10218,7 @@ return {
             [1] = 2726,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2627] = {
@@ -10240,7 +10240,7 @@ return {
             [1] = 2727,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2628] = {
@@ -10262,7 +10262,7 @@ return {
             [1] = 2728,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2540] = {
@@ -10286,7 +10286,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2629] = {
@@ -10308,7 +10308,7 @@ return {
             [1] = 2729,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12540] = {
@@ -10332,7 +10332,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2630] = {
@@ -10354,7 +10354,7 @@ return {
             [1] = 2730,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12548] = {
@@ -10378,7 +10378,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2631] = {
@@ -10400,7 +10400,7 @@ return {
             [1] = 2731,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [2701] = {
@@ -10421,7 +10421,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
     [12503] = {
@@ -10445,7 +10445,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12507] = {
@@ -10469,7 +10469,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12511] = {
@@ -10493,7 +10493,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12515] = {
@@ -10517,7 +10517,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12519] = {
@@ -10541,7 +10541,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [12523] = {
@@ -10565,7 +10565,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2501] = {
@@ -10589,7 +10589,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2502] = {
@@ -10613,7 +10613,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2503] = {
@@ -10637,7 +10637,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2504] = {
@@ -10661,7 +10661,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2505] = {
@@ -10685,7 +10685,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2506] = {
@@ -10709,7 +10709,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2507] = {
@@ -10733,7 +10733,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2508] = {
@@ -10757,7 +10757,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2509] = {
@@ -10781,7 +10781,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2510] = {
@@ -10805,7 +10805,7 @@ return {
         overlayButton = {
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/take.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/take.png",
         effectPath = "",
     },
     [2633] = {
@@ -10827,7 +10827,7 @@ return {
             [1] = 2733,
         },
         effectAction = "",
-        actionButton = "ui/activity/znq_yly/mainUi/putDown.png",
+        actionButton = "ui/activity/znq_yly_global/mainUi/putDown.png",
         effectPath = "",
     },
 }

@@ -95,14 +95,14 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "454",
+							height = "414",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/info/009a.png",
+							texturePath = "ui/activity/znq_yly_global/info/009a.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -112,7 +112,7 @@ local t =
 								PercentX = 50,
 								PercentY = 50,
 							},
-							width = "820",
+							width = "758",
 							ZOrder = "1",
 							components = 
 							{
@@ -129,10 +129,10 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "32",
+									height = "64",
 									ignoreSize = "True",
 									name = "Button_close",
-									normal = "ui/activity/znq_yly/info/012.png",
+									normal = "ui/activity/znq_yly_global/info/012.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -144,7 +144,7 @@ local t =
 										PositionY = 167,
 									},
 									UItype = "Button",
-									width = "35",
+									width = "62",
 									ZOrder = "1",
 								},
 								{
@@ -163,7 +163,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/010a.png",
+									texturePath = "ui/activity/znq_yly_global/info/010a.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -293,7 +293,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -310,7 +310,7 @@ local t =
 										PositionX = -215,
 										PositionY = 166,
 									},
-									width = "274",
+									width = "272",
 									ZOrder = "1",
 									components = 
 									{
@@ -324,14 +324,14 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "26",
+											height = "32",
 											ignoreSize = "True",
 											name = "Image_line",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											texturePath = "ui/activity/znq_yly/info/014.png",
+											texturePath = "ui/activity/znq_yly_global/info/014.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -339,7 +339,7 @@ local t =
 												PositionY = 2,
 											},
 											visible = "False",
-											width = "5",
+											width = "4",
 											ZOrder = "1",
 										},
 										{
@@ -491,7 +491,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/005.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/005.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -605,13 +605,13 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/info/009a.png",
-			"ui/activity/znq_yly/info/012.png",
-			"ui/activity/znq_yly/info/010a.png",
+			"ui/activity/znq_yly_global/info/009a.png",
+			"ui/activity/znq_yly_global/info/012.png",
+			"ui/activity/znq_yly_global/info/010a.png",
 			"ui/common/pop_ui/pop_bg_02.png",
 			"ui/skyladder/main/026.png",
-			"ui/activity/znq_yly/info/014.png",
-			"ui/activity/znq_yly/privilege/005.png",
+			"ui/activity/znq_yly_global/info/014.png",
+			"ui/activity/znq_yly_global/privilege/005.png",
 		},
 		armatures = 
 		{

@@ -54,7 +54,7 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "640",
+					height = "2",
 					ignoreSize = "True",
 					name = "Image_decrptTip_1",
 					sizepercentx = "0",
@@ -65,14 +65,14 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 510,
-						PositionY = 334,
+						PositionX = 480,
+						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
 						nAlign = 5
 					},
-					width = "1386",
+					width = "2",
 					ZOrder = "1",
 					components = 
 					{
@@ -158,7 +158,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "512",
+							height = "2",
 							ignoreSize = "True",
 							name = "Image_1",
 							sizepercentx = "0",
@@ -172,7 +172,7 @@ local t =
 								PositionX = 562,
 								PositionY = 330,
 							},
-							width = "1049",
+							width = "2",
 							ZOrder = "1",
 						},
 						{
@@ -187,7 +187,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "2",
 							ignoreSize = "True",
 							name = "Button_close",
 							normal = "ui/activity/znq_yly_global/info/012.png",
@@ -202,7 +202,7 @@ local t =
 								PositionY = 576,
 							},
 							UItype = "Button",
-							width = "62",
+							width = "2",
 							ZOrder = "1",
 						},
 						{
@@ -262,7 +262,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "32",
+									height = "2",
 									ignoreSize = "True",
 									name = "Image_line",
 									sizepercentx = "0",
@@ -277,7 +277,7 @@ local t =
 										PositionY = 1,
 									},
 									visible = "False",
-									width = "4",
+									width = "2",
 									ZOrder = "1",
 								},
 							},
@@ -329,7 +329,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "187",
+									height = "2",
 									ignoreSize = "True",
 									name = "Image_map",
 									sizepercentx = "0",
@@ -342,7 +342,7 @@ local t =
 									{
 										
 									},
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 								},
 							},
@@ -394,7 +394,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "215",
+							height = "2",
 							ignoreSize = "True",
 							name = "Image_2",
 							sizepercentx = "0",
@@ -408,7 +408,7 @@ local t =
 								PositionX = 79,
 								PositionY = 519,
 							},
-							width = "207",
+							width = "2",
 							ZOrder = "1",
 						},
 						{
@@ -420,7 +420,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "71",
+							height = "2",
 							ignoreSize = "True",
 							name = "Image_3",
 							sizepercentx = "0",
@@ -434,7 +434,7 @@ local t =
 								PositionX = 81,
 								PositionY = 119,
 							},
-							width = "139",
+							width = "2",
 							ZOrder = "1",
 						},
 						{
@@ -704,7 +704,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "187",
+									height = "2",
 									ignoreSize = "True",
 									name = "Image_normal",
 									sizepercentx = "0",
@@ -717,7 +717,7 @@ local t =
 									{
 										PositionX = -1,
 									},
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -748,11 +748,12 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "29",
+											ignoreSize = "True",
 											name = "Label_cn",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											rotation = "90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -764,7 +765,7 @@ local t =
 											{
 												
 											},
-											width = "30",
+											width = "60",
 											ZOrder = "1",
 										},
 									},
@@ -778,7 +779,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "187",
+									height = "2",
 									ignoreSize = "True",
 									name = "select",
 									sizepercentx = "0",
@@ -791,7 +792,7 @@ local t =
 									{
 										
 									},
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{

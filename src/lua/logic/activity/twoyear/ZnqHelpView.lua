@@ -37,7 +37,7 @@ function ZnqHelpView:initUI(ui)
 	for i = 1,4 do
 		local panel = TFPanel:create()
 		panel:setAnchorPoint(ccp(0.5,0.5))
-		local image = TFImage:create("ui/activity/znq_yly/help/00"..i..".png")
+		local image = TFImage:create("ui/activity/znq_yly_global/help/00"..i..".png")
 		panel:addChild(image)
 		self.pageView:addPage(panel)
 	end

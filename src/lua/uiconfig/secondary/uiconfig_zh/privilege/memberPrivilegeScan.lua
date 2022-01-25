@@ -102,7 +102,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/info/009a.png",
+							texturePath = "ui/activity/znq_yly_global/info/009a.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -132,7 +132,7 @@ local t =
 									height = "32",
 									ignoreSize = "True",
 									name = "Button_close",
-									normal = "ui/activity/znq_yly/info/012.png",
+									normal = "ui/activity/znq_yly_global/info/012.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -163,7 +163,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/010a.png",
+									texturePath = "ui/activity/znq_yly_global/info/010a.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -331,7 +331,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											texturePath = "ui/activity/znq_yly/info/014.png",
+											texturePath = "ui/activity/znq_yly_global/info/014.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -489,7 +489,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/privilege/005.png",
+									texturePath = "ui/activity/znq_yly_global/privilege/005.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -603,13 +603,13 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/info/009a.png",
-			"ui/activity/znq_yly/info/012.png",
-			"ui/activity/znq_yly/info/010a.png",
+			"ui/activity/znq_yly_global/info/009a.png",
+			"ui/activity/znq_yly_global/info/012.png",
+			"ui/activity/znq_yly_global/info/010a.png",
 			"ui/common/pop_ui/pop_bg_02.png",
 			"ui/skyladder/main/026.png",
-			"ui/activity/znq_yly/info/014.png",
-			"ui/activity/znq_yly/privilege/005.png",
+			"ui/activity/znq_yly_global/info/014.png",
+			"ui/activity/znq_yly_global/privilege/005.png",
 		},
 		armatures = 
 		{
