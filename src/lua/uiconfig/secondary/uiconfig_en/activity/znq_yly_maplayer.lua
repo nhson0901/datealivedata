@@ -225,7 +225,7 @@ local t =
 									height = "52",
 									ignoreSize = "True",
 									name = "Button_showUI",
-									normal = "ui/activity/znq_yly/mainUi/026.png",
+									normal = "ui/activity/znq_yly_global/mainUi/026.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -261,7 +261,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/mainUi/027.png",
+											texturePath = "ui/activity/znq_yly_global/mainUi/027.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -407,7 +407,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/024.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/024.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -439,7 +439,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/mainUi/025.png",
+											texturePath = "ui/activity/znq_yly_global/mainUi/025.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -464,7 +464,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/mainUi/025.png",
+											texturePath = "ui/activity/znq_yly_global/mainUi/025.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -533,7 +533,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/027.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/027.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -558,7 +558,7 @@ local t =
 									height = "52",
 									ignoreSize = "True",
 									name = "Button_hideUI",
-									normal = "ui/activity/znq_yly/mainUi/026.png",
+									normal = "ui/activity/znq_yly_global/mainUi/026.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -589,7 +589,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/027.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/027.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -729,7 +729,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/015.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/015.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -793,7 +793,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/mainUi/014.png",
+											texturePath = "ui/activity/znq_yly_global/mainUi/014.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -822,7 +822,7 @@ local t =
 							height = "90",
 							ignoreSize = "True",
 							name = "Button_jiemi",
-							normal = "ui/activity/znq_yly/mainUi/029.png",
+							normal = "ui/activity/znq_yly_global/mainUi/029.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -930,7 +930,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/011.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/011.png",
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
@@ -1031,7 +1031,7 @@ local t =
 											height = "93",
 											ignoreSize = "True",
 											name = "Button_ani_n",
-											normal = "ui/activity/znq_yly/mainUi/003.png",
+											normal = "ui/activity/znq_yly_global/mainUi/003.png",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1111,7 +1111,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/mainUi/002.png",
+											texturePath = "ui/activity/znq_yly_global/mainUi/002.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -1225,7 +1225,7 @@ local t =
 											height = "93",
 											ignoreSize = "True",
 											name = "Button_emoji_n",
-											normal = "ui/activity/znq_yly/mainUi/003.png",
+											normal = "ui/activity/znq_yly_global/mainUi/003.png",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1306,7 +1306,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/mainUi/002.png",
+											texturePath = "ui/activity/znq_yly_global/mainUi/002.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -1420,7 +1420,7 @@ local t =
 											height = "93",
 											ignoreSize = "True",
 											name = "Button_item_n",
-											normal = "ui/activity/znq_yly/mainUi/003.png",
+											normal = "ui/activity/znq_yly_global/mainUi/003.png",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1501,7 +1501,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/znq_yly/mainUi/002.png",
+											texturePath = "ui/activity/znq_yly_global/mainUi/002.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
@@ -1619,7 +1619,7 @@ local t =
 									height = "86",
 									ignoreSize = "True",
 									name = "Button_chat",
-									normal = "ui/activity/znq_yly/mainUi/013.png",
+									normal = "ui/activity/znq_yly_global/mainUi/013.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1649,7 +1649,7 @@ local t =
 									height = "86",
 									ignoreSize = "True",
 									name = "Button_emoji",
-									normal = "ui/activity/znq_yly/mainUi/012.png",
+									normal = "ui/activity/znq_yly_global/mainUi/012.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1720,7 +1720,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/022.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/022.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -1919,7 +1919,7 @@ local t =
 									height = "155",
 									ignoreSize = "True",
 									name = "btn_action",
-									normal = "ui/activity/znq_yly/mainUi/019.png",
+									normal = "ui/activity/znq_yly_global/mainUi/019.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1949,7 +1949,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/001.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/001.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -2044,7 +2044,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/004.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/004.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -2076,7 +2076,7 @@ local t =
 									},
 									ignoreSize = "True",
 									name = "Image_icon",
-									normal = "ui/activity/znq_yly/mainUi/007.png",
+									normal = "ui/activity/znq_yly_global/mainUi/007.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -2151,7 +2151,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/mainUi/028.png",
+									texturePath = "ui/activity/znq_yly_global/mainUi/028.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -2175,25 +2175,25 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/mainUi/026.png",
-			"ui/activity/znq_yly/mainUi/027.png",
-			"ui/activity/znq_yly/mainUi/024.png",
-			"ui/activity/znq_yly/mainUi/025.png",
+			"ui/activity/znq_yly_global/mainUi/026.png",
+			"ui/activity/znq_yly_global/mainUi/027.png",
+			"ui/activity/znq_yly_global/mainUi/024.png",
+			"ui/activity/znq_yly_global/mainUi/025.png",
 			"ui/common/btn_back.png",
-			"ui/activity/znq_yly/mainUi/015.png",
-			"ui/activity/znq_yly/mainUi/014.png",
-			"ui/activity/znq_yly/mainUi/029.png",
-			"ui/activity/znq_yly/mainUi/011.png",
-			"ui/activity/znq_yly/mainUi/003.png",
-			"ui/activity/znq_yly/mainUi/002.png",
-			"ui/activity/znq_yly/mainUi/013.png",
-			"ui/activity/znq_yly/mainUi/012.png",
-			"ui/activity/znq_yly/mainUi/022.png",
-			"ui/activity/znq_yly/mainUi/019.png",
-			"ui/activity/znq_yly/mainUi/001.png",
-			"ui/activity/znq_yly/mainUi/004.png",
-			"ui/activity/znq_yly/mainUi/007.png",
-			"ui/activity/znq_yly/mainUi/028.png",
+			"ui/activity/znq_yly_global/mainUi/015.png",
+			"ui/activity/znq_yly_global/mainUi/014.png",
+			"ui/activity/znq_yly_global/mainUi/029.png",
+			"ui/activity/znq_yly_global/mainUi/011.png",
+			"ui/activity/znq_yly_global/mainUi/003.png",
+			"ui/activity/znq_yly_global/mainUi/002.png",
+			"ui/activity/znq_yly_global/mainUi/013.png",
+			"ui/activity/znq_yly_global/mainUi/012.png",
+			"ui/activity/znq_yly_global/mainUi/022.png",
+			"ui/activity/znq_yly_global/mainUi/019.png",
+			"ui/activity/znq_yly_global/mainUi/001.png",
+			"ui/activity/znq_yly_global/mainUi/004.png",
+			"ui/activity/znq_yly_global/mainUi/007.png",
+			"ui/activity/znq_yly_global/mainUi/028.png",
 		},
 		armatures = 
 		{

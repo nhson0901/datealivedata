@@ -61,7 +61,7 @@ local t =
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/activity/znq_yly/Image_mark.png",
+					texturePath = "ui/activity/znq_yly_global/Image_mark.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -165,7 +165,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/info/009.png",
+							texturePath = "ui/activity/znq_yly_global/info/009.png",
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
@@ -190,7 +190,7 @@ local t =
 							height = "64",
 							ignoreSize = "True",
 							name = "Button_close",
-							normal = "ui/activity/znq_yly/info/012.png",
+							normal = "ui/activity/znq_yly_global/info/012.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -231,7 +231,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -248,7 +248,7 @@ local t =
 								PositionX = 187,
 								PositionY = 553,
 							},
-							width = "115",
+							width = "114",
 							ZOrder = "1",
 							components = 
 							{
@@ -269,7 +269,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									texturePath = "ui/activity/znq_yly/info/014.png",
+									texturePath = "ui/activity/znq_yly_global/info/014.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -319,13 +319,13 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 128,
+										PositionX = 127,
 										PositionY = -5,
 										IsPercent = true,
 										PercentX = 111.3,
 										PercentY = -14.29,
 									},
-									width = "76",
+									width = "71",
 									ZOrder = "1",
 								},
 							},
@@ -420,7 +420,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/info/026.png",
+							texturePath = "ui/activity/znq_yly_global/info/026.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -446,7 +446,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/info/027.png",
+							texturePath = "ui/activity/znq_yly_global/info/027.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -554,7 +554,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/020.png",
+									texturePath = "ui/activity/znq_yly_global/info/020.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -628,7 +628,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/021.png",
+									texturePath = "ui/activity/znq_yly_global/info/021.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -816,7 +816,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/015.png",
+									texturePath = "ui/activity/znq_yly_global/info/015.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -899,7 +899,7 @@ local t =
 									{
 										PositionY = 77,
 									},
-									width = "47",
+									width = "41",
 									ZOrder = "1",
 								},
 								{
@@ -918,7 +918,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/018.png",
+									texturePath = "ui/activity/znq_yly_global/info/018.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -942,17 +942,17 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/Image_mark.png",
-			"ui/activity/znq_yly/info/009.png",
-			"ui/activity/znq_yly/info/012.png",
-			"ui/activity/znq_yly/info/014.png",
-			"ui/activity/znq_yly/info/026.png",
-			"ui/activity/znq_yly/info/027.png",
-			"ui/activity/znq_yly/info/020.png",
-			"ui/activity/znq_yly/info/021.png",
+			"ui/activity/znq_yly_global/Image_mark.png",
+			"ui/activity/znq_yly_global/info/009.png",
+			"ui/activity/znq_yly_global/info/012.png",
+			"ui/activity/znq_yly_global/info/014.png",
+			"ui/activity/znq_yly_global/info/026.png",
+			"ui/activity/znq_yly_global/info/027.png",
+			"ui/activity/znq_yly_global/info/020.png",
+			"ui/activity/znq_yly_global/info/021.png",
 			"ui/common/news_small.png",
-			"ui/activity/znq_yly/info/015.png",
-			"ui/activity/znq_yly/info/018.png",
+			"ui/activity/znq_yly_global/info/015.png",
+			"ui/activity/znq_yly_global/info/018.png",
 		},
 		armatures = 
 		{

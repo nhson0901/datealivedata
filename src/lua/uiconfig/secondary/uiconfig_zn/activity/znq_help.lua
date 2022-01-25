@@ -50,20 +50,20 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "373",
+					height = "2",
 					ignoreSize = "True",
 					name = "Image_bg",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "770",
-					texturePath = "ui/activity/znq_yly/help/bg.png",
+					texturePath = "ui/activity/znq_yly_global/help/bg.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
 						PositionY = 33,
 					},
-					width = "876",
+					width = "2",
 					ZOrder = "1",
 				},
 				{
@@ -173,7 +173,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/help/bg.png",
+			"ui/activity/znq_yly_global/help/bg.png",
 			"ui/simulation_trial/arrow.png",
 		},
 		armatures = 

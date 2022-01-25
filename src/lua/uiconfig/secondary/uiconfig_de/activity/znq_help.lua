@@ -57,7 +57,7 @@ local t =
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "770",
-					texturePath = "ui/activity/znq_yly/help/bg.png",
+					texturePath = "ui/activity/znq_yly_global/help/bg.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -173,7 +173,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/help/bg.png",
+			"ui/activity/znq_yly_global/help/bg.png",
 			"ui/simulation_trial/arrow.png",
 		},
 		armatures = 

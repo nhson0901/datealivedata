@@ -144,7 +144,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/mainUi/chatBubble.png",
+							texturePath = "ui/activity/znq_yly_global/mainUi/chatBubble.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -258,7 +258,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/mainUi/chatBubble.png",
+							texturePath = "ui/activity/znq_yly_global/mainUi/chatBubble.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -329,7 +329,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/mainUi/chatBubble.png",
+			"ui/activity/znq_yly_global/mainUi/chatBubble.png",
 		},
 		armatures = 
 		{

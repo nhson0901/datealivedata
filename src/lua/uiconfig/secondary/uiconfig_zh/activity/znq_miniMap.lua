@@ -57,7 +57,7 @@ local t =
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/activity/znq_yly/miniMap/002.png",
+					texturePath = "ui/activity/znq_yly_global/miniMap/002.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -81,7 +81,7 @@ local t =
 					height = "148",
 					ignoreSize = "True",
 					name = "btn_room_2",
-					normal = "ui/activity/znq_yly/miniMap/006.png",
+					normal = "ui/activity/znq_yly_global/miniMap/006.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -114,7 +114,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -216,7 +216,7 @@ local t =
 					height = "153",
 					ignoreSize = "True",
 					name = "btn_room_3",
-					normal = "ui/activity/znq_yly/miniMap/007.png",
+					normal = "ui/activity/znq_yly_global/miniMap/007.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -249,7 +249,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -350,7 +350,7 @@ local t =
 					height = "159",
 					ignoreSize = "True",
 					name = "btn_room_1",
-					normal = "ui/activity/znq_yly/miniMap/009.png",
+					normal = "ui/activity/znq_yly_global/miniMap/009.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -383,7 +383,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -485,7 +485,7 @@ local t =
 					height = "107",
 					ignoreSize = "True",
 					name = "btn_room_5",
-					normal = "ui/activity/znq_yly/miniMap/004.png",
+					normal = "ui/activity/znq_yly_global/miniMap/004.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -518,7 +518,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -620,7 +620,7 @@ local t =
 					height = "146",
 					ignoreSize = "True",
 					name = "btn_room_6",
-					normal = "ui/activity/znq_yly/miniMap/005.png",
+					normal = "ui/activity/znq_yly_global/miniMap/005.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -653,7 +653,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -755,7 +755,7 @@ local t =
 					height = "138",
 					ignoreSize = "True",
 					name = "btn_room_7",
-					normal = "ui/activity/znq_yly/miniMap/010.png",
+					normal = "ui/activity/znq_yly_global/miniMap/010.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -788,7 +788,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -890,7 +890,7 @@ local t =
 					height = "106",
 					ignoreSize = "True",
 					name = "btn_room_8",
-					normal = "ui/activity/znq_yly/miniMap/008.png",
+					normal = "ui/activity/znq_yly_global/miniMap/008.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -923,7 +923,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -1024,7 +1024,7 @@ local t =
 					height = "163",
 					ignoreSize = "True",
 					name = "btn_room_4",
-					normal = "ui/activity/znq_yly/miniMap/003.png",
+					normal = "ui/activity/znq_yly_global/miniMap/003.png",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
@@ -1057,7 +1057,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							texturePath = "ui/activity/znq_yly_global/miniMap/001.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -1155,17 +1155,17 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/znq_yly/miniMap/002.png",
-			"ui/activity/znq_yly/miniMap/006.png",
-			"ui/activity/znq_yly/miniMap/001.png",
+			"ui/activity/znq_yly_global/miniMap/002.png",
+			"ui/activity/znq_yly_global/miniMap/006.png",
+			"ui/activity/znq_yly_global/miniMap/001.png",
 			"ui/common/news_small.png",
-			"ui/activity/znq_yly/miniMap/007.png",
-			"ui/activity/znq_yly/miniMap/009.png",
-			"ui/activity/znq_yly/miniMap/004.png",
-			"ui/activity/znq_yly/miniMap/005.png",
-			"ui/activity/znq_yly/miniMap/010.png",
-			"ui/activity/znq_yly/miniMap/008.png",
-			"ui/activity/znq_yly/miniMap/003.png",
+			"ui/activity/znq_yly_global/miniMap/007.png",
+			"ui/activity/znq_yly_global/miniMap/009.png",
+			"ui/activity/znq_yly_global/miniMap/004.png",
+			"ui/activity/znq_yly_global/miniMap/005.png",
+			"ui/activity/znq_yly_global/miniMap/010.png",
+			"ui/activity/znq_yly_global/miniMap/008.png",
+			"ui/activity/znq_yly_global/miniMap/003.png",
 		},
 		armatures = 
 		{

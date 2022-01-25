@@ -345,7 +345,7 @@ return {
         flip = false,
         id = 411306,
         modelId = 113,
-        isPlyaerControlled = false,
+        isPlyaerControlled = true,
         iconPos = {
             y = 230,
             x = 70,
@@ -1718,7 +1718,7 @@ return {
         flip = false,
         id = 410314,
         modelId = 103,
-        isPlyaerControlled = false,
+        isPlyaerControlled = true,
         iconPos = {
             y = 230,
             x = 70,
@@ -1730,7 +1730,7 @@ return {
         sameModelId = {
             [1] = 410314,
         },
-        showPic = "",
+        showPic = "icon/role/SD_modelIcon/410314.png",
         moveSpeedMultiplier = 1,
     },
     [410123] = {
@@ -1901,7 +1901,7 @@ return {
         flip = false,
         id = 410125,
         modelId = 101,
-        isPlyaerControlled = false,
+        isPlyaerControlled = true,
         iconPos = {
             y = 230,
             x = 70,
@@ -2310,7 +2310,7 @@ return {
         flip = true,
         id = 410516,
         modelId = 105,
-        isPlyaerControlled = false,
+        isPlyaerControlled = true,
         iconPos = {
             y = 230,
             x = 70,
@@ -2322,7 +2322,7 @@ return {
         sameModelId = {
             [1] = 410516,
         },
-        showPic = "",
+        showPic = "icon/role/SD_modelIcon/410515.png",
         moveSpeedMultiplier = 1,
     },
     [412699] = {
